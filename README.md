@@ -7,3 +7,4 @@ Crear un mosaico de fotos.
     * Float
     * Position
     * Rgba
+![recursos](assets/images/coders.png)
